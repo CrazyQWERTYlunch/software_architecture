@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/book.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/book.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/book_store.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/book_store.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/books.db" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/data_base.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_base.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/in_memory_book_repo.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/in_memory_book_repository.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/local.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/main.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/routes.py" charset="UTF-8" />
+    <file url="PROJECT" charset="windows-1251" />
+  </component>
+</project>
